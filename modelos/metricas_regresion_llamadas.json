@@ -1,0 +1,8 @@
+{
+  "modelo": "Random Forest",
+  "MAE": 122.9,
+  "RMSE": 205.0,
+  "R2": 0.033,
+  "MAE_base": 124.3,
+  "n_llamadas": 61882
+}

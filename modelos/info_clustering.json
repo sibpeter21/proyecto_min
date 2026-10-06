@@ -1,0 +1,26 @@
+{
+  "k": 5,
+  "perfiles": {
+    "0": "Ingenieros con mayor número de hijos",
+    "1": "Tecnólogos jóvenes de Gestión de Daños",
+    "2": "Trabajadores de mayor edad y menor número de hijos",
+    "3": "Ingenieros jóvenes con vivienda propia",
+    "4": "Tecnólogos con alta antigüedad en Gestión de Daños"
+  },
+  "rangos": {
+    "Edad": [
+      30,
+      50
+    ],
+    "Hijos": [
+      1,
+      3
+    ],
+    "Antigüedad": [
+      5,
+      15
+    ]
+  },
+  "silhouette": 0.172,
+  "davies_bouldin": 1.527
+}
